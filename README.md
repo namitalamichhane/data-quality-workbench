@@ -11,8 +11,8 @@ pinned: false
 
 A self-service enterprise analytics platform built with Python and Streamlit. The application automatically profiles uploaded data assets, generates an executive-ready Health Score, extracts data quality issues with badged severity levels, recommends remediation transformations, and builds automated, crash-proof machine learning pipelines.
 
-## 🔗 Live Application Demo
-Explore the interactive SaaS platform live here: **[Launch Live Cloud Workbench](https://huggingface.co/spaces/namita8584/data-quality-workbench)**
+## Live Demo
+Explore the interactive SaaS platform live here: [Launch Live Cloud Workbench](https://huggingface.co/spaces/namita8584/data-quality-workbench-v2)
 
 *No dataset ready? Open the ingestion dropdown inside the app to synchronize real-time simulated business parameters for Telecom Churn, Airlines Demand, or Healthcare Risk profiles instantly.*
 
